@@ -1,0 +1,22 @@
+input{
+    height: 2rem;
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
+
+#firstNum{
+    margin-top: 2rem;
+}
+
+#secondNum{
+    margin-top: 2rem;
+}
+
+span{
+    margin-left: 1rem;
+}
+
+button{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
